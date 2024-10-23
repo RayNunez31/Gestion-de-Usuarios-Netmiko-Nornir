@@ -1,0 +1,7 @@
+#groups.yaml
+---
+pucmm:
+  platform: cisco_ios_telnet
+  hostname: 192.168.100.121
+  username: "20190510"
+  password: thinkmouth2002

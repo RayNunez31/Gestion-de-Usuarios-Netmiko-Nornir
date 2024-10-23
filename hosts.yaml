@@ -1,0 +1,10 @@
+---
+router1:
+  port: 33307
+  groups:
+    - pucmm
+
+switch1:
+  port: 33283
+  groups:
+    - pucmm
