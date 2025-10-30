@@ -13,6 +13,3 @@ Este proyecto automatiza la creación y eliminación de usuarios en dispositivos
 ## Ejecución:
 ```bash
 python main.py
-
-Creado por Raymond L. Núñez
-           Pontificia Universidad Madre y Maestra
