@@ -2,9 +2,9 @@
 router1:
   port: 33307
   groups:
-    - pucmm
+    - group_name
 
 switch1:
   port: 33283
   groups:
-    - pucmm
+    - group_name
