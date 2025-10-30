@@ -4,7 +4,7 @@ from nornir_utils.plugins.functions import print_result
 from tasks.manage_user import create_user, delete_user, show_users
 
 # Inicializar Nornir
-nr = InitNornir(config_file="D:/Automatizacion LAB/Estudio de Caso/config.yaml")  # Asegúrate de tener el archivo de configuración
+nr = InitNornir(config_file="config.yaml")  # Asegúrate de tener el archivo de configuración
 
 
 while True:
