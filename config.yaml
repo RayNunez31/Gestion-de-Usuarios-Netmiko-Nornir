@@ -3,8 +3,8 @@
 inventory:
   plugin: SimpleInventory
   options:
-    host_file: 'D:\Automatizacion LAB\Estudio de Caso\hosts.yaml'
-    group_file: 'D:\Automatizacion LAB\Estudio de Caso\groups.yaml'
+    host_file: 'hosts.yaml'
+    group_file: 'groups.yaml'
 
 
 runner:
